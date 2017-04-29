@@ -4,3 +4,8 @@
   .home-wrapper
     h1.home-name #{resume.author.name}
     h2.home-title #{resume.author.title}
+    ul.home-social
+      each social in resume.author.social
+        li.home-item
+          a.home-link(href=social.url)
+            span(class='resume-icon-'+ social.icon)

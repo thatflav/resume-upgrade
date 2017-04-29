@@ -1,10 +1,28 @@
 {
-    "page": {
-        "pageTitle": "Haku's resume",
-        "pageDescription": "And from here we start the project!"
-    },
-    "author": {
-        "name": "Flavius Bohaciuc",
-        "title": "Web Developer"
-    }
+  "page": {
+    "pageTitle": "Haku's resume",
+    "pageDescription": "And from here we start the project!"
+  },
+  "author": {
+    "name": "Flavius Bohaciuc",
+    "title": "Web Developer",
+    "social": [
+      {
+        "icon": "twitter",
+        "url":  "https://twitter.com/su1boh4"
+      },
+      {
+        "icon": "github",
+        "url":  "https://github.com/flaviusbohaciuc"
+      },
+      {
+        "icon": "linkedin",
+        "url":  "https://www.linkedin.com/in/flaviusbohaciuc"
+      },
+      {
+        "icon": "facebook2",
+        "url": "https://www.facebook.com/flaviusbohaciuc"
+      }
+    ]
+  }
 }
